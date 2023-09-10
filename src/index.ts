@@ -107,19 +107,24 @@ const runCrawler = async () => {
   console.log("scrapping the page ⏲️");
   let scrappedData: TRowData[] = [];
   const nextPageSelector = "#expediente\\:j_idt218\\:j_idt235";
-  while ((await page.$(nextPageSelector)) != null) {
-    scrappedData = [...scrappedData, ...(await page.evaluate(scrapeFunction))];
+  let counter = 0;
+  while ((await page.$(nextPageSelector)) != null && counter < 6) {
+    counter++;
+    // skip first value because allways is empty
+    const scrappedPage = (await page.evaluate(scrapeFunction)).slice(1);
+    scrappedData = [...scrappedData, ...scrappedPage];
     await Promise.all([
       page.waitForSelector(nextPageSelector, { visible: true }),
       page.click(nextPageSelector)
     ]);
-    await page.click(nextPageSelector);
   }
-  scrappedData = [...scrappedData, ...(await page.evaluate(scrapeFunction))];
+  // scrape last page
+  const scrappedPage = (await page.evaluate(scrapeFunction)).slice(1);
+  scrappedData = [...scrappedData, ...scrappedPage];
 
+  console.log(JSON.stringify(scrappedData, null, 2));
   const formattedData = mapData(scrappedData);
   console.log(JSON.stringify(formattedData, null, 2));
-  console.log("lenght", formattedData.length);
 
   // CLOSE BROWSER
   console.log("closing browser ⏲️");

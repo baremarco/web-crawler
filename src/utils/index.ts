@@ -9,8 +9,7 @@ export const USER_INPUT = {
 };
 
 export const mapData = (data: TRowData[]) => {
-  // skip first value because allways is empty
-  return data.slice(0).map((element, index) => {
+  return data.map((element, index) => {
     return {
       [element.date ?? index.toString()]: {
         office: element.office,
@@ -56,9 +55,8 @@ export const scrapeFunction = () => {
               .trim();
             rowData[ECells[index] as TCellsKeys] = textCell;
           }
-          data.push(rowData);
         });
-        console.log({ rowData });
+        data.push(rowData);
       });
     }
   }
