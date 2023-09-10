@@ -105,22 +105,20 @@ const runCrawler = async () => {
 
   // SCRAPPING THE PAGE
   console.log("scrapping the page ⏲️");
-  let scrappedData: TRowData[] = [];
+  // scrape first page and ommit the first json value because is an empty cell;
+  const scrappedPage = (await page.evaluate(scrapeFunction)).slice(1);
+  let scrappedData: TRowData[] = [...scrappedPage];
   const nextPageSelector = "#expediente\\:j_idt218\\:j_idt235";
-  let counter = 0;
-  while ((await page.$(nextPageSelector)) != null && counter < 6) {
-    counter++;
-    // skip first value because allways is empty
-    const scrappedPage = (await page.evaluate(scrapeFunction)).slice(1);
-    scrappedData = [...scrappedData, ...scrappedPage];
+  while ((await page.$(nextPageSelector)) != null) {
     await Promise.all([
       page.waitForSelector(nextPageSelector, { visible: true }),
       page.click(nextPageSelector)
     ]);
+    scrappedData = [
+      ...scrappedData,
+      ...(await page.evaluate(scrapeFunction)).slice(1)
+    ];
   }
-  // scrape last page
-  const scrappedPage = (await page.evaluate(scrapeFunction)).slice(1);
-  scrappedData = [...scrappedData, ...scrappedPage];
 
   console.log(JSON.stringify(scrappedData, null, 2));
   const formattedData = mapData(scrappedData);
