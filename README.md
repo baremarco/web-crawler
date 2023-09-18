@@ -37,3 +37,4 @@
 
 ## Referencia
 - [puppeteer docs](https://pptr.dev/category/guides)
+- [gravity stack](https://usegravity.app/)

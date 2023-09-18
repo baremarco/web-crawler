@@ -2,8 +2,10 @@ import "dotenv/config";
 import ac from "@antiadmin/anticaptchaofficial";
 import puppeteer from "puppeteer-extra";
 import stealthPlugin from "puppeteer-extra-plugin-stealth";
+import * as fs from "node:fs/promises";
+
 import { EErrors, type TRowData } from "./types/typeUtils";
-import { USER_INPUT, scrapeFunction, mapData } from "./utils";
+import { USER_INPUT, groupById, scrapeFunction } from "./utils";
 
 // MIDDLEWARE
 puppeteer.use(stealthPlugin());
@@ -120,9 +122,16 @@ const runCrawler = async () => {
     ];
   }
 
-  console.log(JSON.stringify(scrappedData, null, 2));
-  const formattedData = mapData(scrappedData);
-  console.log(JSON.stringify(formattedData, null, 2));
+  const scrappedDataToSave = JSON.stringify(scrappedData, null, 2);
+  const formattedData = groupById(scrappedData, "date");
+  const formattedDateData = Object.assign({}, formattedData, {
+    processData: new Date()
+  });
+  const formattedDataToSave = JSON.stringify(formattedDateData, null, 2);
+
+  await fs.writeFile("./resources/scrapped.json", scrappedDataToSave);
+  await fs.writeFile("./resources/formatted.json", formattedDataToSave);
+  console.log("data saved on ./resources ✅");
 
   // CLOSE BROWSER
   console.log("closing browser ⏲️");

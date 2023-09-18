@@ -12,3 +12,4 @@ export enum EErrors {
 export type TCellsKeys = keyof typeof ECells;
 
 export type TRowData = Record<TCellsKeys, string | undefined>;
+export type TRowDataOptional = Record<string, string | undefined>;

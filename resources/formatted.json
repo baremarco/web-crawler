@@ -1,0 +1,2110 @@
+{
+  "14/09/2023": [
+    {
+      "office": "T41",
+      "actuation": "DEO",
+      "detail": "ENVIO DEO A ENTIDAD EXTERNA: 11091846 - OFICIO COMUNICACIÓN - 65000000072 - BANCO ICBC"
+    },
+    {
+      "office": "T41",
+      "actuation": "DEO",
+      "detail": "ENVIO DEO A ENTIDAD EXTERNA: 11092190 - OFICIO COMUNICACIÓN - 65000000072 - BANCO ICBC"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EJECUCION DE SENTENCIA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "140EMBARGO - FONDOS BANCARIOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "PERITO MED. SOL.SE TRAB.EMB-SE ORD. OFICIO [Presentado 14/09/2023 08:13]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "12/09/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "508CONFRONTE Y LIBRAMIENTO OFICIOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "agrega oficio embargo capital - Parte 2 [Presentado 11/09/2023 16:22]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "AGREGA OFICIO EMBARGO CAPITAL - PARTE 1 [Presentado 11/09/2023 16:22]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "AGREGA OFICIO EMBARGO HONORARIOS - PARTE 2 [Presentado 11/09/2023 16:23]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "AGREGA OFICIO EMBARGO HONORARIOS - PARTE 1 [Presentado 11/09/2023 16:23]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "11/09/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EJECUCION DE SENTENCIA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "140EMBARGO - FONDOS BANCARIOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "inicia ejecución total (capital y honorarios actora) [Presentado 10/09/2023 18:01]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "7/09/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000070473751 - NOTIFICADO EL DIA: 07/09/2023 17:04"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "INTIMACION DEMANDADA POR HONORARIOS PERITO"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "P.MEDICA SOLICITO SE INTIME [Presentado 06/09/2023 18:51]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "5/09/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000070368425 - NOTIFICADO EL DIA: 05/09/2023 17:51"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "PREVIO INTIMACION DEMANDADA POR IVA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CUMPLE INTIMACION [Presentado 04/09/2023 18:54]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "4/09/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EJECUCION DE SENTENCIA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "140EMBARGO - FONDOS BANCARIOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "INICIA EJECUCION [Presentado 04/09/2023 08:23]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "23/08/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000069842382 - NOTIFICADO EL DIA: 23/08/2023 16:46"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000069842381 - NOTIFICADO EL DIA: 23/08/2023 16:46"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000069842380 - NOTIFICADO EL DIA: 23/08/2023 16:46"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EJECUCION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "245LIQUIDACION - POR DEVUELTOS PRACTICA LIQUIDACION POR SECRETARIA"
+    }
+  ],
+  "22/08/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO (DEVOLUCION EXPEDIENTE FORMATO PAPEL)"
+    },
+    {
+      "office": "T41",
+      "actuation": "RECEPCION PASE",
+      "detail": "JUZGADO NACIONAL DE 1RA INSTANCIA DEL TRABAJO NRO. 41"
+    }
+  ],
+  "18/08/2023": [
+    {
+      "office": "MPA",
+      "actuation": "PASE",
+      "detail": "JUZGADO NACIONAL DE 1RA INSTANCIA DEL TRABAJO NRO. 41"
+    },
+    {
+      "office": "MPA",
+      "actuation": "RECEPCION PASE",
+      "detail": "CÁMARA NACIONAL DE APELACIONES DEL TRABAJO - MESA DE PASES"
+    }
+  ],
+  "16/08/2023": [
+    {
+      "office": "TS2",
+      "actuation": "PASE",
+      "detail": "CÁMARA NACIONAL DE APELACIONES DEL TRABAJO - MESA DE PASES"
+    }
+  ],
+  "14/08/2023": [
+    {
+      "office": "TS2",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "14/07/2023": [
+    {
+      "office": "TS2",
+      "actuation": "PUBLICACION SENTENCIA",
+      "detail": "SENT DEFINITIVA - NOTIFICA - 14/07/2023"
+    },
+    {
+      "office": "TS2",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "TS2",
+      "actuation": "EVENTO",
+      "detail": "AGENDA"
+    },
+    {
+      "office": "TS2",
+      "actuation": "EVENTO",
+      "detail": "ELIMINAR ETIQUETAS DEL EXPEDIENTE"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SENTENCIA DE CAMARA"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000068737073 - NOTIFICADO EL DIA: 14/07/2023 17:59"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000068737072 - NOTIFICADO EL DIA: 14/07/2023 17:59"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000068737071 - NOTIFICADO EL DIA: 14/07/2023 17:59"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000068737070 - NOTIFICADO EL DIA: 14/07/2023 17:59"
+    },
+    {
+      "office": "TS2",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "TS2",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "SENT DEFINITIVA - NOTIFICA"
+    }
+  ],
+  "22/06/2023": [
+    {
+      "office": "TS2",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    },
+    {
+      "office": "TS2",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "TS2",
+      "actuation": "EVENTO",
+      "detail": "AGREGAR ETIQUETAS AL EXPEDIENTE"
+    },
+    {
+      "office": "TS2",
+      "actuation": "EVENTO",
+      "detail": "ELIMINAR ETIQUETAS DEL EXPEDIENTE"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "LLAMAMIENTO DE AUTOS A SENTENCIA - ART 483 CPCCN"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000067747141 - NOTIFICADO EL DIA: 22/06/2023 09:10"
+    },
+    {
+      "office": "TS2",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 23000067747140 - NOTIFICADO EL DIA: 22/06/2023 09:10"
+    },
+    {
+      "office": "TS2",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "TS2",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "INTEGRACIÓN DE SALA - ORDEN DE VOTO 1.3.2"
+    }
+  ],
+  "21/06/2023": [
+    {
+      "office": "TS2",
+      "actuation": "RECEPCION PASE",
+      "detail": "CÁMARA NACIONAL DE APELACIONES DEL TRABAJO - SALA II"
+    },
+    {
+      "office": "MGE",
+      "actuation": "PASE",
+      "detail": "CÁMARA NACIONAL DE APELACIONES DEL TRABAJO - SALA II"
+    }
+  ],
+  "16/06/2023": [
+    {
+      "office": "MGE",
+      "actuation": "RECEPCION PASE",
+      "detail": "CÁMARA NACIONAL DE APELACIONES DEL TRABAJO - MESA GENERAL DE ENTRADAS"
+    }
+  ],
+  "14/06/2023": [
+    {
+      "office": "T41",
+      "actuation": "PASE",
+      "detail": "CÁMARA NACIONAL DE APELACIONES DEL TRABAJO - MESA GENERAL DE ENTRADAS"
+    }
+  ],
+  "13/06/2023": [
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "CERTIFICADO ELEVACIÓN A CÁMARA"
+    }
+  ],
+  "8/06/2023": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE A CAMARA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "P. MEDICA SOLICITA ELEVACION A CAMARA [Presentado 07/06/2023 20:25]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "13/07/2022": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "MEMORIAL: CONTESTA MEMORIAL"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "117APELACION - ELEVACIÓN CON VARIOS RECURSOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "19/05/2022": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "MEMORIAL: CONTESTA MEMORIAL"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "114APELACION - CONTESTA AGRAVIOS SIN ELEVACIÓN"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "agravios contesta [Presentado 17/05/2022 13:55]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "16/05/2022": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "MEMORIAL: PRESENTA MEMORIAL"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000054658083 - NOTIFICADO EL DIA: 16/05/2022 19:25"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "111APELACION - CONCEDE RECURSO Y ORDENA TRASLADO AGRAVIOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "APELA SENTENCIA [Presentado 16/05/2022 13:17]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "13/05/2022": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000054602904 - NOTIFICADO EL DIA: 13/05/2022 19:24"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000054602900 - NOTIFICADO EL DIA: 13/05/2022 19:24"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000054602899 - NOTIFICADO EL DIA: 13/05/2022 19:24"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "FINALIZACION ETAPA - SENTENCIA DEFINITIVA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "110SENTENCIA DEFINITIVA - TEXTO Y PROTOCOLO"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000054569916 - NOTIFICADO EL DIA: 13/05/2022 10:23"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000054569915 - NOTIFICADO EL DIA: 13/05/2022 10:23"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "LLAMAMIENTO DE AUTOS A SENTENCIA - ART 483 CPCCN"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "109SENTENCIA - PASE"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "23/02/2022": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000051866130 - NOTIFICADO EL DIA: 23/02/2022 19:32"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 22000051866128 - NOTIFICADO EL DIA: 23/02/2022 19:32"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ALEGAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "106ALEGAR - INFORMATIVA PENDIENTE SIN EFECTO Y NOTIFICAR ESTADO"
+    }
+  ],
+  "29/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "manifestación formula [Presentado 28/12/2021 11:53]"
+    }
+  ],
+  "28/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "400AUDIENCIA - ACTA TESTIGOS"
+    }
+  ],
+  "27/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "6/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y CONSTANCIA DE NOTIFICACION DE AUDIENCIA TESTIMONIAL AL CORREO ELECTRONICO"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "3/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "2/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000050012860 - NOTIFICADO EL DIA: 02/12/2021 19:14"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000050012859 - NOTIFICADO EL DIA: 02/12/2021 19:14"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "270TESTIGOS - SEÑALA AUDIENCIA REMOTA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "audiencia solicita [Presentado 02/12/2021 11:19]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "1/12/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE A LA PARTE ACTORA POR DENUNCIADO EL CORREO ELECTRONICO + COPIA DNI TESTIGO GOMEZ"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "datos testigo denuncia - Parte 3 [Presentado 30/11/2021 11:20]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "DATOS TESTIGO DENUNCIA - PARTE 2 [Presentado 30/11/2021 11:20]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "DATOS TESTIGO DENUNCIA - PARTE 1 [Presentado 30/11/2021 11:20]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "24/11/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000049716766 - NOTIFICADO EL DIA: 24/11/2021 18:35"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000049716764 - NOTIFICADO EL DIA: 24/11/2021 18:35"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "269TESTIGOS - INTIMA POR DATOS CITACION AUDIENCIA REMOTA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "pruebas solicita [Presentado 24/11/2021 09:28]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "23/11/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "387AUDIENCIA - ACTA CONCILIACION REMOTA"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "5/11/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "DEMANDADA: IMPUGNA PERICIA MEDICA [Presentado 04/11/2021 15:43]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "2/11/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000049035835 - NOTIFICADO EL DIA: 02/11/2021 19:18"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000049035834 - NOTIFICADO EL DIA: 02/11/2021 19:18"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "098AUDIENCIA ART. 80 - SEÑALA REMOTA"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "1/11/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE Y PASEN A FIJAR ART 80 L.O."
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "pruebas y audiencia solicita [Presentado 31/10/2021 22:01]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "29/10/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000048938795 - NOTIFICADO EL DIA: 29/10/2021 19:02"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000048938793 - NOTIFICADO EL DIA: 29/10/2021 19:02"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "079PERICIA - TRASLADO ACLARACIONES"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "perito medica contesta impugnación parte demandada [Presentado 28/10/2021 20:53]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "1/10/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "pruebas y audiencia solicita [Presentado 30/09/2021 14:32]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "29/09/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE DIGITALIZACION DE DEMANDA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "demanda agrega - Parte 2 [Presentado 28/09/2021 14:21]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "DEMANDA AGREGA - PARTE 1 [Presentado 28/09/2021 14:21]"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000047932037 - NOTIFICADO EL DIA: 29/09/2021 18:44"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "078PERICIA - TRASLADO IMPUGNACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "DEMANDADA: IMPUGNA PERICIA MEDICA [Presentado 29/09/2021 09:34]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "27/09/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000047838221 - NOTIFICADO EL DIA: 27/09/2021 19:18"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "INICIO"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "008INTIMACION ART. 67 - ACORDADA CSJN 31/20"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "pruebas y audiencia solicita [Presentado 25/09/2021 16:16]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "23/09/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000047744134 - NOTIFICADO EL DIA: 23/09/2021 19:41"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000047744133 - NOTIFICADO EL DIA: 23/09/2021 19:41"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "077PERICIA - TRASLADO PERICIA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "PERITO MEDICA PRESENTA INFORME PERICIAL [Presentado 23/09/2021 09:46]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "22/09/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000047694241 - NOTIFICADO EL DIA: 22/09/2021 18:30"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "075PERICIA - INTIMACION PERITO PRESENTE INFORME"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "INTIMACIÓN SOLICITA [Presentado 22/09/2021 13:56]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "24/08/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000046698849 - NOTIFICADO EL DIA: 24/08/2021 19:33"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "065PERICIAMEDICA - INTIMACION PERITO CON EXAMENES A SU DISPOSICION"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESTUDIOS TOTALES AGREGA - Parte 4 [Presentado 23/08/2021 14:11]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESTUDIOS TOTALES AGREGA - PARTE 3 [Presentado 23/08/2021 14:11]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESTUDIOS TOTALES AGREGA - PARTE 2 [Presentado 23/08/2021 14:11]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESTUDIOS TOTALES AGREGA - PARTE 1 [Presentado 23/08/2021 14:11]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "5/07/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "102AGREGUESE, TENGASE PRESENTE Y HAGASE SABER ESTUDIOS MEDICOS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESTUDIOS PARCIALES AGREGA - PARTE 2 [Presentado 02/07/2021 14:12]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESTUDIOS PARCIALES AGREGA - PARTE 1 [Presentado 02/07/2021 14:12]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "13/04/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000042740741 - NOTIFICADO EL DIA: 13/04/2021 07:31"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000042740738 - NOTIFICADO EL DIA: 13/04/2021 07:31"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "063PERICIAMEDICA - SOLICITUD DE EXAMENES OBRA SOCIAL"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "P.MEDICA INFORMA-ADJUNTA ORDENES MEDICAS [Presentado 10/04/2021 20:58]"
+    }
+  ],
+  "12/04/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "7/04/2021": [
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "075PERICIA - INTIMACION PERITO PRESENTE INFORME"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "SE INTIME PERITO [Presentado 06/04/2021 18:05]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000042592740 - NOTIFICADO EL DIA: 07/04/2021 19:12"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "POR PRESENTADA NUEVA REPRESENTACIÓN GALENO - CONSTITUYE DOMICILIOS -"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "SE PRESENTA - PARTE 2 [Presentado 06/04/2021 14:35]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "SE PRESENTA - PARTE 1 [Presentado 06/04/2021 14:35]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "5/04/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000042497514 - NOTIFICADO EL DIA: 05/04/2021 18:56"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA",
+      "detail": "CEDULA N°: 100007506034 - CEDULA - DESTINATARIO: GALENO ART S.A."
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "090RENUNCIA MANDATO"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "RENUNCIA MANDATO [Presentado 02/04/2021 11:32]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "22/03/2021": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 21000042149362 - NOTIFICADO EL DIA: 22/03/2021 19:16"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "252RESUELVE Y NOTIFICA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "MANIFIESTA SOLICITA [Presentado 18/03/2021 20:09]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "14/08/2020": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 20000036804992 - NOTIFICADO EL DIA: 14/08/2020 17:53"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "061PERICIAMEDICA - INTIMACION CONCURRIR CONSULTORIO MEDICO"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "PERITO MEDICA CITA AL ACTOR [Presentado 14/08/2020 13:48]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 20000036785065 - NOTIFICADO EL DIA: 14/08/2020 11:32"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "062PERICIAMEDICA - INTIMACION INFORME CONCURRENCIA CONSULTORIO"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO INCORPORADO",
+      "detail": "agrega certificado pide nuevo turno (Parte 2 de 2) [Presentado 14/08/2020 00:22]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO INCORPORADO",
+      "detail": "agrega certificado pide nuevo turno (Parte 1 de 2) [Presentado 14/08/2020 00:22]"
+    }
+  ],
+  "13/08/2020": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 20000036740495 - NOTIFICADO EL DIA: 13/08/2020 11:02"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "252RESUELVE Y NOTIFICA"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "PERITOMEDICA INFORMA NO CONCURRENCIA DEL ACTOR [Presentado 13/08/2020 09:54]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "12/08/2020": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 20000036709705 - NOTIFICADO EL DIA: 12/08/2020 12:58"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "252RESUELVE Y NOTIFICA INTIMACION PERITO"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "PERITO MEDICA HACE SABER-PIDE PRORROGA [Presentado 12/08/2020 09:46]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "11/08/2020": [
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 20000036671902 - NOTIFICADO EL DIA: 11/08/2020 13:22"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "075PERICIA - INTIMACION POR ULTIMA VEZ PERITO PRESENTE INFORME"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "ESC [Presentado 06/04/2020 19:55]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "16/03/2020": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "SIN DEFINIR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "11/02/2020": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 20000033790773 - NOTIFICADO EL DIA: 11/02/2020 13:39"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "075PERICIA - INTIMACION PERITO PRESENTE INFORME"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CUMPLE - SOLICITA [Presentado 30/12/2019 12:11]"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "28/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "27/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "25/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TIENESE PRESENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: APELA [Presentado 14/06/2019 15:58]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: APELA [Presentado 14/06/2019 16:01]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "24/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    }
+  ],
+  "21/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "13/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "102AGREGUESE Y HAGASE SABER PLANILLA AFIP"
+    }
+  ],
+  "12/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000028082922 - NOTIFICADO EL DIA: 12/06/2019 12:57"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000028082921 - NOTIFICADO EL DIA: 12/06/2019 12:57"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000028082918 - NOTIFICADO EL DIA: 12/06/2019 12:57"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "TRABA DE LITIS: MEDIDAS PARA MEJOR PROVEER"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "051TRABA LITIS Y/O APERTURA A PRUEBA/DESIGNACION MEDICO/A(ACCIDENTE)"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "ETAPA CON PRUEBA PENDIENTE"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000028059001 - NOTIFICADO EL DIA: 12/06/2019 08:41"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000028059000 - NOTIFICADO EL DIA: 12/06/2019 08:41"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000028058999 - NOTIFICADO EL DIA: 12/06/2019 08:41"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "252RESUELVE"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO INCORPORADO",
+      "detail": "dictamen fiscal [Presentado 10/06/2019 12:01]"
+    }
+  ],
+  "11/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "RECEPCION PASE",
+      "detail": "FISCALIA N°1"
+    }
+  ],
+  "6/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "PASE",
+      "detail": "FISCALIA N°1"
+    }
+  ],
+  "5/06/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "TRABA DE LITIS: CONTESTACION DE DEMANDA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "240DEMANDA - TRABA DE LITIS"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTA TRASLADO - DESCONOCE [Presentado 03/06/2019 15:22]"
+    },
+    {
+      "office": "T41",
+      "actuation": "MOVIMIENTO",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "31/05/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000027733382 - NOTIFICADO EL DIA: 31/05/2019 13:24"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICAR"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "INICIO / DEMANDA"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "038DEMANDA - CONTESTACION - TRASLADO"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: APELA (PARTE 1 DE 2) [Presentado 17/05/2019 11:13]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: APELA (PARTE 2 DE 2) [Presentado 17/05/2019 11:13]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 1 DE 2) [Presentado 28/05/2019 15:06]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 2 DE 2) [Presentado 28/05/2019 15:06]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 1 DE 5) [Presentado 28/05/2019 15:08]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 2 DE 5) [Presentado 28/05/2019 15:08]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 3 DE 5) [Presentado 28/05/2019 15:08]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 4 DE 5) [Presentado 28/05/2019 15:08]"
+    },
+    {
+      "office": "T41",
+      "actuation": "ESCRITO AGREGADO",
+      "detail": "CONTESTACION DEMANDA: CONTESTACION DE DEMANDA (PARTE 5 DE 5) [Presentado 28/05/2019 15:08]"
+    }
+  ],
+  "30/05/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "28/05/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "INICIO"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "101AGREGUESE Y TENGASE PRESENTE(INICIO)"
+    }
+  ],
+  "24/05/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "9/05/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN DESPACHO"
+    }
+  ],
+  "3/05/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000026850768 - NOTIFICADO EL DIA: 03/05/2019 12:54"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA",
+      "detail": "CEDULA N°: 100006590607 - CEDULA - DESTINATARIO: GALENO ART S.A."
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000026850760 - NOTIFICADO EL DIA: 03/05/2019 12:54"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "INICIO"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "035DEMANDA - ACCIDENTE -TRASLADO - INT. BONO"
+    }
+  ],
+  "25/04/2019": [
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "EN LETRA"
+    },
+    {
+      "office": "T41",
+      "actuation": "CEDULA ELECTRONICA TRIBUNAL",
+      "detail": "CEDULA N° 19000026607182 - NOTIFICADO EL DIA: 25/04/2019 11:43"
+    },
+    {
+      "office": "T41",
+      "actuation": "EVENTO",
+      "detail": "NOTIFICACION"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "INICIO"
+    },
+    {
+      "office": "T41",
+      "actuation": "FIRMA DESPACHO",
+      "detail": "007NOTIFICACION AGENTE FISCAL ACCION CFR. ART. 31 LEY 27148"
+    },
+    {
+      "office": "T41",
+      "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+      "detail": "INICIO / DEMANDA"
+    },
+    {
+      "office": "T41",
+      "actuation": "RECEPCION PASE",
+      "detail": "JUZGADO NACIONAL DE 1RA INSTANCIA DEL TRABAJO NRO. 41"
+    },
+    {
+      "office": "MGE",
+      "actuation": "PASE",
+      "detail": "JUZGADO NACIONAL DE 1RA INSTANCIA DEL TRABAJO NRO. 41"
+    }
+  ],
+  "processData": "2023-09-18T15:47:45.966Z"
+}
