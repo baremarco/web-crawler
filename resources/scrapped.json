@@ -1981,93 +1981,93 @@
   },
   {
     "office": "T41",
-    "date": "25/06/2019",
-    "actuation": "ESCRITO AGREGADO",
-    "detail": "CONTESTACION DEMANDA: APELA [Presentado 14/06/2019 16:01]"
+    "date": "16/03/2020",
+    "actuation": "FIRMA DESPACHO",
+    "detail": "101AGREGUESE Y TIENESE PRESENTE"
   },
   {
     "office": "T41",
-    "date": "25/06/2019",
-    "actuation": "MOVIMIENTO",
+    "date": "16/03/2020",
+    "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
     "detail": "EN DESPACHO"
   },
   {
     "office": "T41",
-    "date": "24/06/2019",
+    "date": "11/02/2020",
     "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
     "detail": "EN LETRA"
   },
   {
     "office": "T41",
-    "date": "24/06/2019",
-    "actuation": "MOVIMIENTO",
-    "detail": "ETAPA CON PRUEBA PENDIENTE"
-  },
-  {
-    "office": "T41",
-    "date": "21/06/2019",
-    "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
-    "detail": "EN DESPACHO"
-  },
-  {
-    "office": "T41",
-    "date": "13/06/2019",
-    "actuation": "FIRMA DESPACHO",
-    "detail": "102AGREGUESE Y HAGASE SABER PLANILLA AFIP"
-  },
-  {
-    "office": "T41",
-    "date": "12/06/2019",
+    "date": "11/02/2020",
     "actuation": "CEDULA ELECTRONICA TRIBUNAL",
-    "detail": "CEDULA N° 19000028082922 - NOTIFICADO EL DIA: 12/06/2019 12:57"
+    "detail": "CEDULA N° 20000033790773 - NOTIFICADO EL DIA: 11/02/2020 13:39"
   },
   {
     "office": "T41",
-    "date": "12/06/2019",
-    "actuation": "CEDULA ELECTRONICA TRIBUNAL",
-    "detail": "CEDULA N° 19000028082921 - NOTIFICADO EL DIA: 12/06/2019 12:57"
-  },
-  {
-    "office": "T41",
-    "date": "12/06/2019",
-    "actuation": "CEDULA ELECTRONICA TRIBUNAL",
-    "detail": "CEDULA N° 19000028082918 - NOTIFICADO EL DIA: 12/06/2019 12:57"
-  },
-  {
-    "office": "T41",
-    "date": "12/06/2019",
+    "date": "11/02/2020",
     "actuation": "EVENTO",
     "detail": "NOTIFICAR"
   },
   {
     "office": "T41",
-    "date": "12/06/2019",
-    "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
-    "detail": "TRABA DE LITIS: MEDIDAS PARA MEJOR PROVEER"
-  },
-  {
-    "office": "T41",
-    "date": "12/06/2019",
-    "actuation": "FIRMA DESPACHO",
-    "detail": "051TRABA LITIS Y/O APERTURA A PRUEBA/DESIGNACION MEDICO/A(ACCIDENTE)"
-  },
-  {
-    "office": "T41",
-    "date": "12/06/2019",
+    "date": "11/02/2020",
     "actuation": "MOVIMIENTO",
+    "detail": "ETAPA CON PRUEBA PENDIENTE"
+  },
+  {
+    "office": "T41",
+    "date": "11/02/2020",
+    "actuation": "FIRMA DESPACHO",
+    "detail": "075PERICIA - INTIMACION PERITO PRESENTE INFORME"
+  },
+  {
+    "office": "T41",
+    "date": "11/02/2020",
+    "actuation": "ESCRITO AGREGADO",
+    "detail": "CUMPLE - SOLICITA [Presentado 30/12/2019 12:11]"
+  },
+  {
+    "office": "T41",
+    "date": "11/02/2020",
+    "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
     "detail": "EN DESPACHO"
   },
   {
     "office": "T41",
-    "date": "12/06/2019",
+    "date": "28/06/2019",
+    "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+    "detail": "EN DESPACHO"
+  },
+  {
+    "office": "T41",
+    "date": "27/06/2019",
+    "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
+    "detail": "EN DESPACHO"
+  },
+  {
+    "office": "T41",
+    "date": "25/06/2019",
     "actuation": "CAMBIO DE ESTADO DE EXPEDIENTE",
     "detail": "EN LETRA"
   },
   {
     "office": "T41",
-    "date": "12/06/2019",
+    "date": "25/06/2019",
     "actuation": "MOVIMIENTO",
     "detail": "ETAPA CON PRUEBA PENDIENTE"
+  },
+  {
+    "office": "T41",
+    "date": "25/06/2019",
+    "actuation": "FIRMA DESPACHO",
+    "detail": "101AGREGUESE Y TIENESE PRESENTE"
+  },
+  {
+    "office": "T41",
+    "date": "25/06/2019",
+    "actuation": "ESCRITO AGREGADO",
+    "detail": "CONTESTACION DEMANDA: APELA [Presentado 14/06/2019 15:58]"
   },
   {
     "office": "T41",
